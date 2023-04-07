@@ -1,0 +1,15 @@
+D:\Alif\Informatika\Semester 2\PBO\Tugas PBO PR\Tugas PBO PR\bin\Debug\net6.0\Tugas PBO PR.exe
+D:\Alif\Informatika\Semester 2\PBO\Tugas PBO PR\Tugas PBO PR\bin\Debug\net6.0\Tugas PBO PR.deps.json
+D:\Alif\Informatika\Semester 2\PBO\Tugas PBO PR\Tugas PBO PR\bin\Debug\net6.0\Tugas PBO PR.runtimeconfig.json
+D:\Alif\Informatika\Semester 2\PBO\Tugas PBO PR\Tugas PBO PR\bin\Debug\net6.0\Tugas PBO PR.dll
+D:\Alif\Informatika\Semester 2\PBO\Tugas PBO PR\Tugas PBO PR\bin\Debug\net6.0\Tugas PBO PR.pdb
+D:\Alif\Informatika\Semester 2\PBO\Tugas PBO PR\Tugas PBO PR\obj\Debug\net6.0\Tugas PBO PR.csproj.AssemblyReference.cache
+D:\Alif\Informatika\Semester 2\PBO\Tugas PBO PR\Tugas PBO PR\obj\Debug\net6.0\Tugas PBO PR.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alif\Informatika\Semester 2\PBO\Tugas PBO PR\Tugas PBO PR\obj\Debug\net6.0\Tugas PBO PR.AssemblyInfoInputs.cache
+D:\Alif\Informatika\Semester 2\PBO\Tugas PBO PR\Tugas PBO PR\obj\Debug\net6.0\Tugas PBO PR.AssemblyInfo.cs
+D:\Alif\Informatika\Semester 2\PBO\Tugas PBO PR\Tugas PBO PR\obj\Debug\net6.0\Tugas PBO PR.csproj.CoreCompileInputs.cache
+D:\Alif\Informatika\Semester 2\PBO\Tugas PBO PR\Tugas PBO PR\obj\Debug\net6.0\Tugas PBO PR.dll
+D:\Alif\Informatika\Semester 2\PBO\Tugas PBO PR\Tugas PBO PR\obj\Debug\net6.0\refint\Tugas PBO PR.dll
+D:\Alif\Informatika\Semester 2\PBO\Tugas PBO PR\Tugas PBO PR\obj\Debug\net6.0\Tugas PBO PR.pdb
+D:\Alif\Informatika\Semester 2\PBO\Tugas PBO PR\Tugas PBO PR\obj\Debug\net6.0\Tugas PBO PR.genruntimeconfig.cache
+D:\Alif\Informatika\Semester 2\PBO\Tugas PBO PR\Tugas PBO PR\obj\Debug\net6.0\ref\Tugas PBO PR.dll
